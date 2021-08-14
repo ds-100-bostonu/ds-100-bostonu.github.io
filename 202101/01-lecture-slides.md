@@ -20,8 +20,8 @@ please prepare laptop or smartphone to join!
 ## Who am I?
 
 - Front-end developer
-- VSCode :heart: 
-- I use tabs. :cat: 
+- VSCode :heart:
+- I use tabs. :cat:
 
 ---
 
@@ -29,7 +29,7 @@ please prepare laptop or smartphone to join!
 
 ---
 
-{%youtube E8Nj7RwXf0s %}
+youtube E8Nj7RwXf0s
 
 ---
 
@@ -51,7 +51,7 @@ digraph {
   subgraph core {
     c [label="Hackmd-it \ncore"] [shape=box]
   }
-  
+
   c -> sync [ltail=session lhead=session]
 
   subgraph cluster1 {
@@ -86,7 +86,7 @@ digraph {
 
 ---
 
-# :fork_and_knife: 
+# :fork_and_knife:
 
 ---
 
@@ -104,7 +104,7 @@ code.orange {
 
 ---
 
-# :bulb: 
+# :bulb:
 
 ---
 
@@ -149,11 +149,11 @@ console.log(isLogin) //-> true
 
 - Cross envornment commnication
 - A small library to solve messaging pain
-- TypeScript Rocks :tada: 
+- TypeScript Rocks :tada:
 
 ---
 
-### Thank you! :sheep: 
+### Thank you! :sheep:
 
 You can find me on
 
